@@ -9,8 +9,8 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+Join our channel and start me
+@newmoviesbn
 </i>"""    
     
     HELP_TEXT = """
